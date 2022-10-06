@@ -1,2 +1,0 @@
-#!/bin/bash
-mv files[[:upper]]* /tmp/u
